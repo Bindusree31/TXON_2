@@ -1,4 +1,4 @@
-console.log("Hello World");
+
 let result = document.getElementById("result");
 
 function display(num){
